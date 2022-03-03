@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AntonioBL96
 - 👀 I’m interested in JavaScript, React JS, Node JS, HTML, CSS3...
-- 🌱 I’m currently learning React JS and Node JS. 
+- 🌱 I’m currently learning React JS, HTML and CSS3. 
 - 💞️ I’m looking to collaborate on any project to start my carreer. 
 - 📫 How to reach me: antonio_losi@hotmail.com 
 
